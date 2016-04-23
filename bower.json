@@ -3,7 +3,7 @@
     "version": "0.0.3",
     "homepage": "https://github.com/mikoweb/jsloader",
     "authors": [
-        "Rafał Mikołajun <rafal@vision-web.pl>"
+        "Rafał Mikołajun <rafal@mikoweb.pl>"
     ],
     "description": "Library for grouping scripts",
     "main": "jsloader.js",
