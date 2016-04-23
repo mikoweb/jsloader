@@ -1,5 +1,5 @@
 /*
- * website: www.vision-web.pl
+ * website: mikoweb.pl
  * (c) Rafał Mikołajun <rafal@mikoweb.pl>
  */
 
