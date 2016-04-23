@@ -16,5 +16,9 @@
     "license": "GPLv2",
     "dependencies": {
         "yepnope": "1.5.4"
+    },
+    "devDependencies": {
+        "jquery": "~2.2",
+        "qunit": "~1.22"
     }
 }

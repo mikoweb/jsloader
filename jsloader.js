@@ -142,6 +142,8 @@ var jsloader = (function() {
                     requirements[i].test(callback);
                 }
             }
+        } else {
+            callback();
         }
     }
 
